@@ -1,0 +1,12 @@
+
+The internet, according to people on the web, is a worldwide system of computer networks. A more easy explanation is: **The internet is a global system that connects computers around the world**, and can be used to send emails, look at social media, messaging, etc. But it exists, works and is available to anyone with a computer thanks to a set systems/ideas that helped its creation. 
+It started with the space race after WW2, where the US -- being defeated by the Soviet Union's launch of a satellite into space -- decided to invest million of dolars into research with the main goal of conquering the moon. Yet, what they didn't know is that the internet would develop without knowing. With this in mind, it was first created ARPANET, the first packet-switching network (it would only worked between four computers. It was more of a private network between scientifics at universities). 
+https://searchnetworking.techtarget.com/definition/ARPANET
+The idea of a network, that later would be the internet, comes from The Mundaneum, an archive -- With more than 12 million entries (Alex Wright, 2008) -- that would serve people to search for documents, images and videos. This idea was the first approach to what the internet is. 
+https://www.nytimes.com/2008/06/17/science/17mund.html
+Another important element to the creation of the internet is the hypertext, which is a text with links on it. Without it, it would be difficult to get to other texts related to the first document thst you were reading. Also, what I understood about Xanadu, which is related to hypertexts and the internet, is that its main idea was that everybody gets the opportunity to know how to use the computer (idea of PCs). 
+Another thing was the modem, a devise that made possible the communication from a computer to another one. It also made that more computers were connected to the internet. Now it was public and available for everyone. But, to make this happen, there was a need to make every computer in the world to have the same way of communicating between them. The Internet Protocol Suite or TCP/IP helped by conecting computers to the internet. 
+https://whatis.techtarget.com/definition/Internet-Protocol-suite-IP-suite
+http://www.plugthingsin.com/internet/what-is-a-modem/
+Finally, the wifi which are wireless networks that help computers and phones to get connected to the internet. It is for you to use the internet without cables.  
+
