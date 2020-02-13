@@ -9,4 +9,8 @@ http://www.bbscorner.com/
 https://en.wikipedia.org/wiki/BITNET
 http://www.bbscorner.com/bbsnetworks/fidonet.htm
 
-2. 
+2. I found that a group called the Archieve Team, started by Jason Scott and conformed by activists, programmers and writers. They started the GeoCities Project which consisted in trying to rescue as many Geocities' data as possible. To save them, the Archive Team are trying to save as many GeoCities websites as possible using GNU Wget 
+
+http://ascii.textfiles.com/
+https://www.theregister.co.uk/2009/04/28/geocities_preservation/
+https://www.archiveteam.org/index.php?title=Main_Page
