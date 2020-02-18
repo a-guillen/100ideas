@@ -1,0 +1,18 @@
+
+IDEAS 
+
+1. **Streaming Media** have changed the way in which we watch and listen to music and tv. It has replaced buying cable and music, hence become accesible, popular and cheaper among people with internet. Apps like Spotify, Netflix, Hulu and even Kindle, are some examples of these streaming media, each one of them having different content to enjoy. I think it is interesting how, because of these new apps, not only people have changed, but also their habits. For example, before Spotify, people used to buy or download music. Now, it has become really easy for people to listen to music anywhere. I think that at some point cable -- dvds, cds, books, etc -- will stop existing and everything will be in 
+streaming media. 
+
+https://media.thinknum.com/articles/a-brief-history-of-video-streaming-by-the-numbers/
+
+2. **Smart Contact Lenses**: We have seen this idea in sci-fi movies and tv shows and we think it is something that only will happen in a utopian society very far from where we are in time, but it is becoming reality. I saw this idea on BBC Click, but after reaserching a little but about this, I found that there are a lot of people investing in this contacts, such as Google and Samsung, but focusing on different functionalities for them (auto-focusing lenses, health issues, display data from cellphone, etc). Of course the creation of these contacts would give a lot of different opportunities in differents fields. It is still in development, but it is tought to use augmented reality to display whatever data that is going to be shown. 
+
+https://theweek.com/articles/617205/how-smart-contact-lenses-create-scifi-eyes-future
+https://www.youtube.com/watch?v=9mg-m6XugNo
+
+3. **Virtual Reality Gaming**: 
+
+4. **Motion Capture**:  
+
+5. Portl **Hologram/Holography**: 
