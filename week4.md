@@ -11,7 +11,10 @@ https://media.thinknum.com/articles/a-brief-history-of-video-streaming-by-the-nu
 https://theweek.com/articles/617205/how-smart-contact-lenses-create-scifi-eyes-future
 https://www.youtube.com/watch?v=9mg-m6XugNo
 
-3. **Virtual Reality Gaming**: 
+3. **Virtual Reality Gaming**: This concept have been talked about for quite some time. It started in the 80's with the NASA. Yet, it has been evolutionating since then and have been focusing on the game industry. SEGA and Nintendo created their own headset back in the 90's, but it was a failure. Then, in 2012, Occulus Rift started the project that had a massive support for its creation. Since then, other companies, like Samsung and HTR, had created their own headsets and making them better each time. Virtual reality is now the future, not only in videogaming, but also in the way we connect with people (Occulis for Business). 
+
+https://www.youtube.com/watch?v=hDWfsIbBtwE
+https://www.oculus.com/blog/introducing-the-new-oculus-for-business/
 
 4. **Motion Capture**:  
 
