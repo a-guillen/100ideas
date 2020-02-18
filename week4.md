@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=9mg-m6XugNo
 https://www.youtube.com/watch?v=hDWfsIbBtwE
 https://www.oculus.com/blog/introducing-the-new-oculus-for-business/
 
-4. **Motion Capture**:  
+4. **Motion Capture Technology**: it is the process of recording movement. It is used for entertainment, robotics, medical and sports purposes. In film-making, animators use motion capture to have the movement as the animation instead of using the traditional technique. It has also been used to bring to life fantasy characters. Then, in videogames it has served to recreate realistic character movement which produce a new experience for the player. Of course motion capture have a lot of uses but I think the most interesting part of it is that it has played with our conception of reality. It would be interesting to see how in the future people would use motion capture to other purposes. 
 
 5. Portl **Hologram/Holography**: 
+
+https://www.youtube.com/watch?v=3g8UleB1ycs
