@@ -17,7 +17,12 @@ https://www.youtube.com/watch?v=hDWfsIbBtwE
 https://www.oculus.com/blog/introducing-the-new-oculus-for-business/
 
 4. **Motion Capture Technology**: it is the process of recording movement. It is used for entertainment, robotics, medical and sports purposes. In film-making, animators use motion capture to have the movement as the animation instead of using the traditional technique. It has also been used to bring to life fantasy characters. Then, in videogames it has served to recreate realistic character movement which produce a new experience for the player. Of course motion capture have a lot of uses but I think the most interesting part of it is that it has played with our conception of reality. It would be interesting to see how in the future people would use motion capture to other purposes. 
+I saw in BBC Click about "resurrecting" the death and to put them in movies/advertisements using motion capture programms, and I thought it was really interesting. 
 
-5. Portl **Hologram/Holography**: 
+https://www.engadget.com/2014/07/14/motion-capture-explainer/
+https://www.youtube.com/watch?v=OEubvildG5I
+
+5. Portl **Hologram/Holography**: This is a photography technique that records light from an object to then present it in a three-dimensional image. Because technology is advancing every year, holograms have become more and more real, creating this sci-fi atmosphere that would have seen as impossible years back. There are several types of doing holograms, but the one that I saw and found it really interesting is the one that the company Portl is doing, which is creating a room-like hologram that transmits live the image to the hologram room. The hologram itself looks very real. It even have very accurate shadows. 
 
 https://www.youtube.com/watch?v=3g8UleB1ycs
+https://www.livescience.com/34652-hologram.html
